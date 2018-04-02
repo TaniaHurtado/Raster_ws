@@ -1,4 +1,4 @@
-# Taller raster
+﻿# Taller raster
 
 ## Propósito
 
@@ -22,11 +22,14 @@ Complete la tabla:
 
 | Integrante | github nick |
 |------------|-------------|
-|            |             |
+|     Tania Paola Hurtado Pinto       |       TaniaHurtado      |
+|Ivan Dario Rojas Florez| idrojasf |
+|Miguel Ángel Ballén| mballeng91 |
 
 ## Discusión
 
 Describa los resultados obtenidos. Qué técnicas de anti-aliasing y shading se exploraron? Adjunte las referencias. Discuta las dificultades encontradas.
+
 
 ## Entrega
 
